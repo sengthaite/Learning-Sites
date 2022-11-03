@@ -1,3 +1,7 @@
+# Learning Sites
+### 1. Web
++ [DoFactory Javascript Patterns](https://www.dofactory.com/javascript/design-patterns/observer#:~:text=The%20Observer%20pattern%20offers%20a,design%20and%20promotes%20loose%20coupling.)
+
 Flux and Redux
 ==============
 + Flux architecture by: Bill Fisher and Jing Chen at Facebook F8 conference in April 2014.
